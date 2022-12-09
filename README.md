@@ -58,3 +58,7 @@ The following are links to documentation and tutorials used to learn how to use 
 1. https://levelup.gitconnected.com/reddit-sentiment-analysis-with-python-c13062b862f6 Credit to this site that helped understand how to perform this work.
 2. https://praw.readthedocs.io/en/stable/getting_started/quick_start.html
 3. https://www.nltk.org/
+
+
+# Presentation and Walkthrough
+https://youtu.be/9vR0RyZp2GI
