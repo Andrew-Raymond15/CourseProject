@@ -1,6 +1,5 @@
-# CourseProject
+# Reddit Comment Sentiment Analysis on Music Artists or Songs
 
-Please fork this repository and paste the github link of your fork on Microsoft CMT. Detailed instructions are on Coursera under Week 1: Course Project Overview/Week 9 Activities.
+This is the documentation for the CS 410 Course Project
 
-
-Reddit Comment Sentiment Analysis on Music Artists or Songs
+The idea behind this program is to take reddit comments from the Music subbreddit and determine sentiment based on comments that talk about the song or artist you choose.
