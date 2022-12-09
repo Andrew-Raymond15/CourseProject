@@ -8,8 +8,25 @@ The program uses the reddit api to create a reddit app and then uses the API Wra
 
 The results of the program will provide Bar Chart showing the percentage of negative and positive words and then will produce a wordcloud that shows the most common words in the comments
 
+# Steps to run Jupyter Notebook
+
+1. Open jupyter note book above
+2. Install Required packages and software listed below
+3. Create Reddit App Script
+  
+  a. https://www.reddit.com/prefs/apps/
+
+4.Entire login information in the highlighted spot in the notebook
+![image](https://user-images.githubusercontent.com/60722122/206621224-9bec03c7-6f4d-4559-aacb-732bf892e9fd.png)
+
+5.Entire desired song or artist in cell
+ ![image](https://user-images.githubusercontent.com/60722122/206621339-538dd60b-0386-4e09-87bb-2535fa378a4f.png)
+
+6. Run Rest of cells!
+
+7. Get analysis and visualizations!
  
- # Required Packages and Downloads
+# Required Packages and Downloads
  
 pip install praw emoji wordcloud
  
