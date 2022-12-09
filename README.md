@@ -43,7 +43,7 @@ import spacy
 
 import sys
 
-from wordcloud import WordCloud
+from wordcloud import WordCloud, STOPWORDS
 
 import re
 
